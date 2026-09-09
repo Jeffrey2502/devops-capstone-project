@@ -1,6 +1,7 @@
 # DevOps Capstone Template
 devops-capstone-project
-n this lab, you will create a GitHub repository, set up a GitHub Kanban board, develop a user story template, and add user stories to the board
+
+In this lab, you will create a GitHub repository, set up a GitHub Kanban board, develop a user story template, and add user stories to the board
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Python 3.9](https://img.shields.io/badge/Python-3.9-green.svg)](https://shields.io/)
